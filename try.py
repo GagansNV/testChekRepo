@@ -1,0 +1,2 @@
+c= gama
+d = delta
