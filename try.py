@@ -1,2 +1,4 @@
 c= gama
-d = delta
+d = delta   
+e=meta
+testing
